@@ -12,3 +12,15 @@ pay 20% interest.
 Transactors : Customers who pay the least amount of interest charges and careful with their money.
 
 VIP/Prime : Customers with high credit limit/% of full payment; targeted to increase their credit limit/spending.
+
+
+
+
+
+
+
+
+
+
+
+Refrences: Udemy course
