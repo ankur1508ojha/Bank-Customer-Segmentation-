@@ -23,4 +23,4 @@ VIP/Prime : Customers with high credit limit/% of full payment; targeted to incr
 
 
 
-Refrences: Udemy course
+
